@@ -1,0 +1,22 @@
+.mainPage-root {
+    display: flex;
+    gap: 20px;
+}
+
+.mainPage-root_firstTable {
+    width: 70%;
+}
+
+.mainPage-root_secondTable {
+    width: 30%;
+}
+
+.mainPage-bid {
+    justify-content: space-between;
+    display: flex;
+    font-weight: bold;
+}
+
+.mainPage-bid_price {
+    color: orange;
+}
